@@ -1,6 +1,6 @@
 # 施策立案ライブデモ プロンプト集
 
-コーディングエージェント（Cursor、Windsurf、Cline など）を活用した不動産ポータル向け施策立案ワークフローのデモ用プロンプト集です。
+コーディングエージェント（Cursor、Claude Code、Amazon Q Developer など）を活用した不動産ポータル向け施策立案ワークフローのデモ用プロンプト集です。
 
 ## 概要
 
@@ -45,8 +45,9 @@ wake_career_event/
 以下のコーディングエージェントで利用できます：
 
 - **Cursor** - Agent モード
-- **Windsurf** - Cascade
-- **Cline** - VSCode 拡張
+- **Claude Code** - Anthropic 製 CLI エージェント
+- **Codex** - OpenAI 製 CLI エージェント
+- **Amazon Q Developer** - AWS 製エージェント
 - その他、ファイル読み書きが可能なAIエージェント
 
 ### 準備
